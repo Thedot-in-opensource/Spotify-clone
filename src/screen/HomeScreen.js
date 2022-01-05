@@ -7,7 +7,7 @@ const HomeScreen = () => {
     return(
         <View>
             <Text>
-                Home Screen
+                Home Screen OKOK
             </Text>
         </View>
     )
